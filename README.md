@@ -17,7 +17,7 @@ This repository is your one-stop shop for learning and exploring PostgreSQL, the
 
 ## Get Started!
 
-1.  Clone this repository: `git clone https://github.com/viraj-lashkari/postgresql-playground.git`
+1.  Clone this repository: `git clone https://github.com/viraj-lashkari/PostgreSQL.git`
 2.  Install PostgreSQL locally (instructions at [Official PostgreSQL Documentation](https://www.postgresql.org/docs/))
 3.  Follow the instructions in each folder to explore the scripts and exercises.
 4.  Don't hesitate to experiment, ask questions, and contribute your own learning experiences!
